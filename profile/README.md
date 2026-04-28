@@ -1,7 +1,7 @@
+# [DBJ Method Since 2009, Release 2025](https://github.com/DBJARH/DBJ_METHOD)
 
 ![](https://github.com/DBJARH/DBJ_METHOD/blob/9e3529703b9c68bc21cf3b8fe5dba4f29343be07/assests/dbj_method.png)
 
-[Primordial Method, Release 2025](https://github.com/DBJARH/DBJ_METHOD)
 
 <!--
 
