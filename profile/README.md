@@ -1,10 +1,16 @@
 # DBJ Method 
+
+---
+
 ## Exist as such since 2009
-### [Release 2025](https://github.com/DBJARH/DBJ_METHOD)
 
 ![](https://github.com/DBJARH/DBJ_METHOD/blob/9e3529703b9c68bc21cf3b8fe5dba4f29343be07/assests/dbj_method.png)
 
 > As far as I remember this was the first formal diagram. That image was drawn from memory. By 2025, the "yellow middle" will become a product segment
+
+---
+
+## Here is the [Release 2025](https://github.com/DBJARH/DBJ_METHOD)
 
 <!--
 
